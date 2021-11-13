@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+header {
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    width: 100%;
+}
+
+
+.result {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+canvas {
+    margin: 0 auto;
+    height: 50vh;
+    width: 50vh;
+    border-style: solid;
+    border-radius: 5px;
+    display: block;
+}
+input {
+    margin: 0 auto;
+    height: 50px;
+    width: 50vh;
+    background-color: black;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    font-size: 150%;
+    display: block;
+}
+
+
